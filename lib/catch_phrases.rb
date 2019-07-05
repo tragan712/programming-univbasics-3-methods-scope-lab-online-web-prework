@@ -17,7 +17,8 @@
 
 
 
-any_phrase("Do A Barrel Roll!")
+ def any_phrase("Do A Barrel Roll!")
+ end
 
 
 
