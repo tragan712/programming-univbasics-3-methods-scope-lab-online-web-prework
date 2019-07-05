@@ -1,26 +1,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
 def mario
   
    phrase="It's-a me, Mario!" 
@@ -36,5 +16,7 @@ def any_phrase(phrase)
  any_phrase="Do A Barrel Roll!"
  puts any_phrase
  end
+ 
 
-
+def link(phrase)
+  link=""
