@@ -20,7 +20,7 @@
  
 
 def any_phrase("Do A Barrel Roll!")
- puts any_phrase
+ any_phrase=
  end
 
 def mario
