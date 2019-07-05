@@ -33,4 +33,4 @@ def toadstool
   puts status
 end
 
-any_phrase("Do a Barrel Roll!")
+any_phrase("Do A Barrel Roll!")
