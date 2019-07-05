@@ -19,8 +19,9 @@
 
  
 
-def any_phrase("Do A Barrel Roll!")
- any_phrase=
+def any_phrase
+ any_phrase="Do A Barrel Roll!"
+ puts
  end
 
 def mario
